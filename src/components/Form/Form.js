@@ -34,7 +34,7 @@ class Form extends Component {
     return (
       <div>
         <p>
-          Hello {this.state.firstName} {this.state.lastName}
+          {this.state.firstName} {this.state.lastName}
         </p>
         <form className="form">
           <input
