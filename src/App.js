@@ -11,6 +11,7 @@ const App = () => (
     <Jumbotron />
     <Card />
     <Form />
+    <Login />
   </div>
 );
 
